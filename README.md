@@ -3,4 +3,4 @@
 Steps
 - `yarn/npm install`
 - `yarn/npm test`
-- `cat out\bundle.js | grep 'export *'`
+- `cat out/bundle.js | grep 'export *'`
